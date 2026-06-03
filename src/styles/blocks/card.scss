@@ -61,10 +61,10 @@ body {
   justify-content: space-between;
   margin-bottom: 24px;
   align-items: flex-end;
+}
 
-  &-count {
-    color: $main-font-color;
-  }
+.card__review-count {
+  color: $main-font-color;
 }
 
 .card__buy {
